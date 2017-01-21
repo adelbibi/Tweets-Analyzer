@@ -20,4 +20,4 @@ Once you have your dependencies installed via pip, run the script in terminal vi
 python run_me.py
 ```
 
-Bulit up Siraj's baby.
+Bulit upon Siraj's baby.
