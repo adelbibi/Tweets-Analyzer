@@ -1,5 +1,4 @@
 import tweepy
-import csv
 import numpy as np
 from textblob import TextBlob
 
